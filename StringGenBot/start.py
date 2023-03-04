@@ -29,7 +29,6 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ : [𝙋𝙄𝙆𝘼𝘾𝙃𝙐](tg://user?id=
                     InlineKeyboardButton("❣️ 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 ❣️", url="https://t.me/iro_x_support"),
                     InlineKeyboardButton("🥀 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 🥀", url="https://t.me/iro_bot_support"),
                     InlineKeyboardButton("✨ 𝙋𝙄𝙆𝘼𝘾𝙃𝙐 ✨", user_id=OWNER_ID)
-
                 ]
             ]
         ),
